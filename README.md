@@ -19,18 +19,24 @@ This repository is going to work through building an associated abstraction and 
 
 ## Tentative Plan
 
-1.0 Write Smart Contracts on one popular public blockchains
+1.0 Write Smart Contracts on one popular public blockchains.
 - [ ] Choose a blockchain
 - [ ] Write SCs
-2.0 Create associated wrapper library, with first chain
-3.0 Write Smart Contracts on a 2nd popular public blockchain
+
+2.0 Create associated wrapper library, with first chain.
+
+3.0 Write Smart Contracts on a 2nd popular public blockchain.
 - [ ] Choose a blockchain
 - [ ] Write SCs
-4.0 Create associated wrapper library, with second chain
+
+4.0 Create associated wrapper library, with second chain.
+
 5.0 Create a hypothetical generalized wrapper for both.
-6.0 Write Smart Contracts on a 3rd popular public blockchain
+
+6.0 Write Smart Contracts on a 3rd popular public blockchain.
 - [ ] Choose a blockchain
 - [ ] Write SCs
+
 7.0 Refactor the API across all 3 blockchains
 
 # Prior Work & Inspiration
