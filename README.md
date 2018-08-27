@@ -3,7 +3,7 @@ A set of smart contracts with corresponding python wrappers for creating blockch
 
 ## Vision
 
-The world has many scenarios when two or more actors arrange commitments to send sets of one or more cashflows to one and other.  
+There are many scenarios when two or more actors arrange commitments to send sets of one or more cashflows to one and other.  
 
 ### Examples
 
@@ -15,7 +15,7 @@ The world has many scenarios when two or more actors arrange commitments to send
 * Your kid's allowance
 * Your own saving plan
 
-This repository is going to work through building an associated abstraction and potential standard for what a token-less approach might look like for a form of open credit combined with accrual enriched triple entry accounting.
+This repository is going to work through building a potential standard and associated abstraction for what a token-less approach might look like for a form of open credit combined with accrual enriched triple entry accounting.
 
 ## Tentative Plan
 
