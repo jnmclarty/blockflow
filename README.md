@@ -15,7 +15,7 @@ The world has many scenarios when two or more actors arrange commitments to send
 * Your kid's allowance
 * Your own saving plan
 
-This repository is going to work through building an associated abstraction and potential standard for what a token-less approach might look like for a form of open credit and triple entry accounting.
+This repository is going to work through building an associated abstraction and potential standard for what a token-less approach might look like for a form of open credit combined with accrual enriched triple entry accounting.
 
 ## Tentative Plan
 
@@ -39,7 +39,7 @@ This repository is going to work through building an associated abstraction and 
 
 7.0 Refactor the API across all three blockchains
 
-# Prior Work & Inspiration
+## Prior Work & Inspiration
 
 1. [Request Network](https://request.network/#)
 2. [Dharma](https://dharma.io/)
