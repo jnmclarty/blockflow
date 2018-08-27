@@ -31,10 +31,10 @@ This repository is going to work through building an associated abstraction and 
 6.0 Write Smart Contracts on a 3rd popular public blockchain
 - [ ] Choose a blockchain
 - [ ] Write SCs
-7.0 Refactor the API across all 3
+7.0 Refactor the API across all 3 blockchains
 
-# Prior Work, Inspiration & Collaborators
+# Prior Work & Inspiration
 
-1. Request Network [https://request.network/#]
-2. Dharma [https://dharma.io/]
-3. Akropolis [https://akropolis.io/]
+1. [Request Network](https://request.network/#)
+2. [Dharma](https://dharma.io/)
+3. [Akropolis](https://akropolis.io/)
